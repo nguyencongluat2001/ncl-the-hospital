@@ -14,8 +14,8 @@
 
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
         <div class="row">
-          <div class="col-lg-8">
-          <h1>PHÒNG KHÁM ĐA KHOA  <br><span>MEDITEC</span></h1>
+          <div class="col-lg-8" style=" border-radius: 10px;background: #0005344d;">
+          <h1 style="color:#15ae69">PHÒNG KHÁM ĐA KHOA  <br><span>MEDITEC</span></h1>
           <!-- <h2>Mua sắm thả ga, không lo về giá!</h2> -->
 
             <!-- <div class="btns">

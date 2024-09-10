@@ -42,8 +42,8 @@ class HomeController extends Controller
     public function index(Request $request)
     {
         $dataSearch = '';
-        $objResult = $this->ProductService->where('status',1)->get()->take(8);
-        $datas['datas']= $objResult;
+        // $objResult = $this->ProductService->where('status',1)->get()->take(8);
+        $datas['datas']= '';
         return view('client.home.home',$datas);
     }
     
